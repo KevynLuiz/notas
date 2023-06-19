@@ -1,5 +1,6 @@
 # Inicializando git Local
 
+
 Primeiro confira se o git esta instalado:
 
 ```bash
@@ -13,7 +14,7 @@ git add <filename ou.> :Adiciona uma alteração no diretório ativo à área de
 
 git restore --staged <filename ou.> :Usado para restaurar arquivos na árvore de trabalho a partir do índice ou de outra confirmação.
 
-Git branch <branchname.> : O nome padrão do branch no Git é master ou main;serve para criar uma nova branch.
+Git branch <branchname.> : O nome padrão do branch no Git é master ou main serve para criar uma nova branch.
 
 Git Checkout <branch name> : pode ser usado para criar,mudar,e conferir branches já feitos.
 
